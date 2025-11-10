@@ -93,6 +93,8 @@ Synchronizes two Arduino boards for coordinated operation.
 ---
 
 ## 📄 Project Report
+![Voltorb Irrigation and Pest Detection Preview](preview.png)
+
 The full detailed report (with schematics, explanation, and code) is available here:  
 📘 [View Full Project Report (PDF)](https://github.com/EmperorGonneBerserk/Voltorb-Irrigation-and-Pest-Detection/raw/main/Voltorb_Irrigation_and_Pest_Detection.pdf)
 
